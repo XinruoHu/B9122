@@ -1,0 +1,29 @@
+commit 7cbc13a7ab226c01f627f5c48fc77d1727d3d5f0
+Author: XinruoHu <xinruo.hu@berkeley.edu>
+Date:   Wed Oct 7 20:29:13 2020 -0400
+
+    py2 added
+
+commit 08c37bf8792ddedbe01c1cd427a0e49fa7830c1d
+Author: XinruoHu <xinruo.hu@berkeley.edu>
+Date:   Wed Oct 7 20:28:12 2020 -0400
+
+    added file
+
+commit 30fca59c25c2262673d1c722c88a6648c5b5fd81
+Author: XinruoHu <xinruo.hu@berkeley.edu>
+Date:   Wed Oct 7 20:18:41 2020 -0400
+
+    README file
+
+commit c5bae06b004f661e04dce4cf2303bfb85526dbfd
+Author: XinruoHu <xinruo.hu@berkeley.edu>
+Date:   Wed Oct 7 20:14:03 2020 -0400
+
+    changed python and jupyter note book file
+
+commit 2e2486594d383780642cdd505b180bb8b4a033f1
+Author: XinruoHu <xinruo.hu@berkeley.edu>
+Date:   Wed Oct 7 18:56:53 2020 -0400
+
+    Initial commit
