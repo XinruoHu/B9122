@@ -1,3 +1,15 @@
+commit 7aae85e9e3072140a06daa37e3149873063487ae
+Author: XinruoHu <xinruo.hu@berkeley.edu>
+Date:   Wed Oct 7 20:42:37 2020 -0400
+
+    Modified two py1 and gitlog
+
+commit 18412d1716158c6cdceb0e529a1e2bac97664e31
+Author: XinruoHu <xinruo.hu@berkeley.edu>
+Date:   Wed Oct 7 20:40:35 2020 -0400
+
+    Added URL to my git repo
+
 commit 388e9ed8be5a94c37d3a232a3a585bc411c8b35e
 Author: XinruoHu <xinruo.hu@berkeley.edu>
 Date:   Wed Oct 7 20:36:48 2020 -0400
