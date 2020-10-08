@@ -1,3 +1,15 @@
+commit 388e9ed8be5a94c37d3a232a3a585bc411c8b35e
+Author: XinruoHu <xinruo.hu@berkeley.edu>
+Date:   Wed Oct 7 20:36:48 2020 -0400
+
+    Added info in README
+
+commit 52d9fc5e53a66a46c6aed9d8d373927a157282aa
+Author: XinruoHu <xinruo.hu@berkeley.edu>
+Date:   Wed Oct 7 20:34:54 2020 -0400
+
+    added function to py2
+
 commit 7cbc13a7ab226c01f627f5c48fc77d1727d3d5f0
 Author: XinruoHu <xinruo.hu@berkeley.edu>
 Date:   Wed Oct 7 20:29:13 2020 -0400
